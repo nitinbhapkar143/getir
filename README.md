@@ -7,10 +7,16 @@
 ## How to run testcases : 
 1. To run test cases use 'npm test'
 
-## How to view code coverage : 
+## How to view code coverage in Local: 
 1. To run test cases use 'npm run coverage'
 2. Go ot 'http://localhost:4000/' in browser
 
-## How to view API documentation : 
+## How to view code coverage on Heroku Seerver: 
+1. Go ot 'https://powerful-thicket-60226.herokuapp.com/' in browser
+
+## How to view API documentation in Local: 
 1. To run test cases use 'npm run docs'
-2. Go ot 'http://localhost:4000/docs' in browser
+2. Go ot 'http://localhost:4000/doc' in browser
+
+## How to view API documentation on Heroku Seerver: 
+1. Go ot 'https://powerful-thicket-60226.herokuapp.com/doc' in browser
